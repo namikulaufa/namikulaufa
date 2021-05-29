@@ -6,11 +6,11 @@
 <br>
 
 ___
-## How?
+## How? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px">
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=namikulaufa&show_icons=true&theme=tokyonight">
   
 ___
-# Donate
+# Donate <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="29px">
 <p align="center"><img src="https://svgur.com/i/Vtt.svg">
 
 </p>

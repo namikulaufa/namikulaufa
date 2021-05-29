@@ -4,11 +4,10 @@
 <br>
 <br>
 <br>
-
+bang
 ___
 
 <!--
-bang
 ![namikulaufa github stats](https://github-readme-stats.vercel.app/api?username=namikulaufa&show_icons=true&theme=tokyonight)
 -->
 # Donate

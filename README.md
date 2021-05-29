@@ -8,7 +8,8 @@
 ___
 
 <!--
-![krypton-byte github stats](https://github-readme-stats.vercel.app/api?username=namikulaufa&show_icons=true&theme=tokyonight)
+bang
+![namikulaufa github stats](https://github-readme-stats.vercel.app/api?username=namikulaufa&show_icons=true&theme=tokyonight)
 -->
 # Donate
 <p align="center"><img src="https://svgur.com/i/Vtt.svg">

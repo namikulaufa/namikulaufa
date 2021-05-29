@@ -1,4 +1,20 @@
-### Hi there 👋
+## Halo Bang <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+<br>
+<br>
+<br>
+<br>
+
+___
+
+<!--
+![krypton-byte github stats](https://github-readme-stats.vercel.app/api?username=namikulaufa&show_icons=true&theme=tokyonight)
+-->
+# Donate
+<p align="center"><img src="https://svgur.com/i/Vtt.svg">
+
+</p>
+<ul><li><a href="https://aufa.me/ndak-ada.html">Saweria</a><li><a href="https://aufa.me/ndak-ada.html">Whatsapp</a></li><li><a href="https://aufa.me/ndak-ada.html">Trakteer</a></li></ul>
 
 <!--
 **namikulaufa/namikulaufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

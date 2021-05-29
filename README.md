@@ -4,9 +4,10 @@
 <br>
 <br>
 <br>
-bang
-___
 
+___
+# How?
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=namikulaufa&show_icons=true&theme=tokyonight">
 <!--
 ![namikulaufa github stats](https://github-readme-stats.vercel.app/api?username=namikulaufa&show_icons=true&theme=tokyonight)
 -->

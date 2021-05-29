@@ -14,7 +14,7 @@ ___
 <p align="center"><img src="https://svgur.com/i/Vtt.svg">
 
 </p>
-<ul><li><a href="https://aufa.me/ndak-ada.html">Saweria</a><li><a href="https://aufa.me/ndak-ada.html">Whatsapp</a></li><li><a href="https://aufa.me/ndak-ada.html">Trakteer</a></li></ul>
+<ul><li><a href="https://aufa.me/ndak-ada/">Saweria</a><li><a href="https://aufa.me/ndak-ada/">Whatsapp</a></li><li><a href="https://aufa.me/ndak-ada/">Trakteer</a></li></ul>
 
 <!--
 **namikulaufa/namikulaufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

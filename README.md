@@ -1,4 +1,4 @@
-## Halo Bang <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Halo Bang <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <br>
 <br>
@@ -6,11 +6,10 @@
 <br>
 
 ___
-# How?
+## How?
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=namikulaufa&show_icons=true&theme=tokyonight">
-<!--
-![namikulaufa github stats](https://github-readme-stats.vercel.app/api?username=namikulaufa&show_icons=true&theme=tokyonight)
--->
+
+___
 # Donate
 <p align="center"><img src="https://svgur.com/i/Vtt.svg">
 
